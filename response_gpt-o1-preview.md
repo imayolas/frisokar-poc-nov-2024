@@ -1,8 +1,10 @@
 # Model
+
 Openai o1-preview
 
 # Tokens usage
-````
+
+```
   promptTokens: 23155 ($0.347)
   completionTokens: 4087 ($0.245)
   totalTokens: 27242 ($0.592)
@@ -53,14 +55,16 @@ This tender emphasizes the importance of ergonomics, sustainability, and complia
 **Tender Product ID 3:** Poltrona giratória, operacional, tipo I
 
 1. **Catalog Product ID:** B
- - **Name:** Cadeira Job Giratória com Back System
- - **Description:** This swivel chair features a medium executive backrest with adjustable height and tilt, adjustable seat height, and adjustable armrests, which aligns well with the operational chair specifications. It provides the ergonomic features required for operational use.
- - **Match Score:** 4
+
+- **Name:** Cadeira Job Giratória com Back System
+- **Description:** This swivel chair features a medium executive backrest with adjustable height and tilt, adjustable seat height, and adjustable armrests, which aligns well with the operational chair specifications. It provides the ergonomic features required for operational use.
+- **Match Score:** 4
 
 2. **Catalog Product ID:** A
- - **Name:** Cadeira Secretária Giratória Classic
- - **Description:** A basic swivel chair with a low backrest and no armrests. It lacks several ergonomic features specified in the tender, such as adjustable backrest and armrests, making it less suitable for operational use as required.
- - **Match Score:** 2
+
+- **Name:** Cadeira Secretária Giratória Classic
+- **Description:** A basic swivel chair with a low backrest and no armrests. It lacks several ergonomic features specified in the tender, such as adjustable backrest and armrests, making it less suitable for operational use as required.
+- **Match Score:** 2
 
 ---
 

@@ -1,14 +1,17 @@
 # Model
+
 Openai gpt-4o-mini
 
 # Tokens usage
-````
+
+```
 promptTokens: 21889 ($0.0032)
 completionTokens: 716 ($0.00043)
 totalTokens: 22605 ($0.00363)
 ```
 
 # Response
+
 ### Executive Summary
 
 The tender offer is initiated by the Tribunal de Justiça do Estado de Goiás, specifically through its Administrative Directorate and the Standardization Advisory for Reference Terms. The process, identified as PROAD: 202310000450203, aims to procure various types of chairs to meet the ergonomic needs of judges and public servants across different judicial districts. The estimated quantities include 364 high-back swivel chairs, 1,453 fixed interlocutory chairs, and 1,697 operational swivel chairs. The procurement will be conducted via an electronic auction, with a total contract duration of 12 months for price registration and 4 months for the actual contract execution. The evaluation criterion will be the lowest price per item.
@@ -34,11 +37,13 @@ The tender emphasizes the importance of ergonomic furniture to enhance the healt
 ### Matching Products from the Catalog
 
 1. **Product ID: 1**
+
    - **Name:** Cadeira Secretária Giratória Classic
    - **Description:** This chair is a low-back swivel type, which may not fully meet the high-back requirement but offers ergonomic features suitable for office use.
    - **Match Score:** 2
 
 2. **Product ID: 2**
+
    - **Name:** Cadeira Job Giratória com Back System
    - **Description:** This chair features a medium back and adjustable components, making it a better fit for ergonomic needs compared to the classic model.
    - **Match Score:** 4
